@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <rect width="48" height="48" rx="12" fill="#1d1f21"/>
+
+  <path fill="#F80000" d="M24 6C14.058 6 6 9.134 6 13v22c0 3.866 8.058 7 18 7s18-3.134 18-7V13c0-3.866-8.058-7-18-7z"/>
+
+  <ellipse cx="24" cy="13" rx="18" ry="7" fill="#fff"/>
+  <ellipse cx="24" cy="13" rx="16" ry="5.5" fill="#F80000"/>
+
+  <text x="50%" y="60%" text-anchor="middle" font-family="Arial, Helvetica, sans-serif"
+        font-weight="bold" font-size="6.5" fill="#FFFFFF">ORACLE</text>
+</svg>
