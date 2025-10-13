@@ -66,3 +66,15 @@ Strong background in **OOP**, **algorithms**, and **system architecture**, with 
 - **System Design:** Scalability, fault tolerance, and maintainability  
 
 ---
+
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=manhquan1307&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    width="58%"
+    alt="GitHub Stats"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=manhquan1307&layout=compact&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"
+    alt="Top Languages"
+  />
+</p>
