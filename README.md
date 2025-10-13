@@ -18,7 +18,7 @@ Strong background in **OOP**, **algorithms**, and **system architecture**, with 
 ### Tech Stack
 
 #### Core Languages  
-![Languages](https://skillicons.dev/icons?i=java,python,go,c,cpp,js,ts,html,css)
+![Languages](https://skillicons.dev/icons?i=java,python,go,cpp,bash,js,ts)
 
 #### Backend Frameworks & Platforms  
 <p align="left" style="display: flex; align-items: center; gap: 8px;">
