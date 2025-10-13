@@ -25,7 +25,7 @@ Strong background in **OOP**, **algorithms**, and **system architecture**, with 
   <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" height="48" alt="Spring Boot"/></a>
   <img src="./icon/jhipster.svg" height="48" alt="JHipster"/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gin,django,flask,fastapi,nodejs,express" height="48" alt="Python & JS Frameworks"/>
+    <img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,express" height="48" alt="Python & JS Frameworks"/>
   </a>
 </p>
 
