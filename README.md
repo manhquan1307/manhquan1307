@@ -31,8 +31,9 @@ I enjoy turning complex business requirements into clean, observable, and resili
 
 #### Backend Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs" height="44" alt="Spring FastAPI Node.js"/>
+  <img src="https://skillicons.dev/icons?i=spring" height="44" alt="Spring"/>
   <img src="./icon/jhipster.svg" height="44" alt="JHipster"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs" height="44" alt="FastAPI Node.js"/>
 </p>
 
 #### Frontend (for Full-Stack Collaboration)
