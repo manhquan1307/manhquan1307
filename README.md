@@ -1,5 +1,5 @@
 <h1 align="center">☕ Hi there, I'm Vu Manh Quan</h1>
-<h3 align="center">Backend Engineer | Microservices | Data Streaming | DevOps</h3>
+<h3 align="center">Backend Engineer | Microservices | Data Streaming</h3>
 
 <p align="center">
   <a href="mailto:vumanhquan1307@gmail.com">vumanhquan1307@gmail.com</a> |
@@ -18,7 +18,7 @@ Strong background in **OOP**, **algorithms**, and **system architecture**, with 
 ### Tech Stack
 
 #### Core Languages  
-![Languages](https://skillicons.dev/icons?i=java,kotlin,python,go,cpp,bash,js,ts)
+![Languages](https://skillicons.dev/icons?i=java,python,ts,bash)
 
 #### Backend Frameworks & Platforms  
 <p align="left" style="display: flex; align-items: center; gap: 8px;">
@@ -36,7 +36,7 @@ Strong background in **OOP**, **algorithms**, and **system architecture**, with 
 <p align="left" style="display: flex; align-items: center; gap: 8px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="SQL Server"/>
   <img src="./icon/oracle.svg" height="48" alt="Oracle Database"/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,elasticsearch" height="48" alt="Databases"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,elasticsearch" height="48" alt="Databases"/>
 </p>
 
 #### Data Streaming & Integration  
@@ -45,24 +45,11 @@ Strong background in **OOP**, **algorithms**, and **system architecture**, with 
   <img src="./icon/debezium.svg" height="48" alt="Debezium"/>
 </p>
 
-#### Build & CI/CD  
-![Build Tools](https://skillicons.dev/icons?i=maven,gradle,githubactions,jenkins,git,github,bitbucket)
+#### CI/CD  
+![Build Tools](https://skillicons.dev/icons?i=githubactions,jenkins)
 
 #### DevOps & Cloud  
-![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,nginx,aws)
+![DevOps](https://skillicons.dev/icons?i=docker,nginx)
 
 #### Observability  
 ![Monitoring](https://skillicons.dev/icons?i=grafana,prometheus)
-
-#### Tools & Environment  
-![Tools](https://skillicons.dev/icons?i=postman,vscode,idea,eclipse,linux,ubuntu)
-
----
-
-### Focus Areas
-- **Backend:** Microservices, Event-driven architecture, Distributed transactions  
-- **Data:** ETL, CDC, Indexing, Search optimization  
-- **DevOps:** CI/CD, Dockerized services, Observability  
-- **System Design:** Scalability, fault tolerance, and maintainability  
-
----
