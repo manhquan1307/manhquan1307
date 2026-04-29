@@ -34,7 +34,7 @@ Strong background in **OOP**, **algorithms**, and **system architecture**, with 
 
 #### Databases & Caching  
 <p align="left" style="display: flex; align-items: center; gap: 8px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="SQL Server"/>
+  <img src="./icon/mssql.svg" height="48" alt="SQL Server"/>  
   <img src="./icon/oracle.svg" height="48" alt="Oracle Database"/>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,elasticsearch" height="48" alt="Databases"/>
 </p>
