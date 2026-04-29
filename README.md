@@ -41,12 +41,9 @@ I enjoy turning complex business requirements into clean, observable, and resili
 
 #### Databases, Caching, Search
 <p align="left">
-  <img src="./icon/mssql.svg" width="42" height="42" alt="SQL Server"/>
-  <img src="./icon/oracle.svg" width="42" height="42" alt="Oracle Database"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="42" height="42" alt="Redis"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="42" height="42" alt="Elasticsearch"/>
+  <img src="./icon/mssql.svg" height="48" alt="SQL Server"/>  
+  <img src="./icon/oracle.svg" height="48" alt="Oracle Database"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,elasticsearch" height="48" alt="Databases"/>
 </p>
 
 #### Streaming & Integration
