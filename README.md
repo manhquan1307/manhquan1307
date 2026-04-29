@@ -18,14 +18,14 @@ Strong background in **OOP**, **algorithms**, and **system architecture**, with 
 ### Tech Stack
 
 #### Core Languages  
-![Languages](https://skillicons.dev/icons?i=java,python,ts,bash)
+![Languages](https://skillicons.dev/icons?i=java,python,ts,go,bash)
 
 #### Backend Frameworks & Platforms  
 <p align="left" style="display: flex; align-items: center; gap: 8px;">
   <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" height="48" alt="Spring Boot"/></a>
   <img src="./icon/jhipster.svg" height="48" alt="JHipster"/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,express,arduino" height="48" alt="Python & JS Frameworks"/>
+    <img src="https://skillicons.dev/icons?i=fastapi,nodejs" height="48" alt="Python & JS Frameworks"/>
   </a>
 </p>
 
@@ -42,14 +42,9 @@ Strong background in **OOP**, **algorithms**, and **system architecture**, with 
 #### Data Streaming & Integration  
 <p align="left" style="display: flex; align-items: center; gap: 8px;">
   <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" height="48" alt="Kafka & RabbitMQ"/>
+  <img src="./icon/flink.svg" height="48" alt="Flink"/>
   <img src="./icon/debezium.svg" height="48" alt="Debezium"/>
 </p>
 
-#### CI/CD  
-![Build Tools](https://skillicons.dev/icons?i=githubactions,jenkins)
-
-#### DevOps & Cloud  
-![DevOps](https://skillicons.dev/icons?i=docker,nginx)
-
-#### Observability  
-![Monitoring](https://skillicons.dev/icons?i=grafana,prometheus)
+#### CI/CD • DevOps & Cloud • Observability  
+![Platform & Monitoring](https://skillicons.dev/icons?i=githubactions,jenkins,docker,nginx,grafana,prometheus)
